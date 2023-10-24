@@ -1,0 +1,7 @@
+{
+  "name": "local-noti-test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
